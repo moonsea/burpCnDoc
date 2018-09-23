@@ -1,2 +1,0 @@
-# Comparer 组件
-

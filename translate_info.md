@@ -1,6 +1,8 @@
-# Burpsuite 中文文档
+# 翻译详情
 
-Target组件
+## Burp Suite 文档
+
+## Target组件
 
 * [Target组件](target/)
   * [如何使用](target/using/using.md)
